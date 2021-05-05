@@ -1,0 +1,21 @@
+-Regles del negoci
+Client
+-No hi pot haver més d'un client amb el mateix correu electrònic
+-Els menús estan formats per almenys 1 beguda i 1 pizza
+-La mida de les pizzes és individual, mitjana o familiar
+-El màxim d'ingredients d'una pizza és 5
+-Per gestionar comandes el client necessita un compte
+-Per gestionar comandes el client ha de fer login
+-Per seleccionar un producte el client ha d'indicar el tipus
+-Els menús només poden incloure pizzes predefinides
+-No hi pot haver més d'una comanda amb el mateix codi
+Cuiner
+-No hi pot haver més d'un cuiner assignat a la mateixa comanda
+Repartidor
+-No hi pot haver més d'un repartidor a la mateixa zona geogràfica
+-La comanda no ha estat lliurada fins que el repartidor marca la comanda com a tal
+Administrador
+-Un empleat (cuiner o repartidor) no es pot esborrar a si mateix
+-Un empleat (cuiner o repartidor) no es pot afegir a si mateix
+-No hi pot haver més d'un empleat amb el mateix codi
+-
