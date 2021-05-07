@@ -1,0 +1,10 @@
+Actors
+-Client
+-Cuiner (empleat)
+-Repartidor (empleat)
+-Administrador
+Diagrama
+
+
+
+Especificació textual

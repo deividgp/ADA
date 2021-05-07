@@ -18,4 +18,3 @@ Administrador
 -Un empleat (cuiner o repartidor) no es pot esborrar a si mateix
 -Un empleat (cuiner o repartidor) no es pot afegir a si mateix
 -No hi pot haver més d'un empleat amb el mateix codi
--
